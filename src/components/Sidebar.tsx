@@ -62,7 +62,7 @@ export function Sidebar({
         <div className="flex flex-col items-center mb-8">
           <div className="w-32 h-32 rounded-full overflow-hidden mb-4 bg-(--border) relative">
             <Image
-              src="/assets/profile.png"
+              src="./assets/profile.png"
               alt="Profile"
               fill
               className="object-cover"
